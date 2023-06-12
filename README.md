@@ -1,2 +1,2 @@
-# Song-Recommender-With-Python
+# Song-Recommender
 It is a project for recommendation song in Spotify
